@@ -1,0 +1,41 @@
+
+body {
+    padding: 10px 50px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+label{
+    float: left;
+    margin-left: 480px;
+}
+
+.formdesign {
+    font-size: 20px;
+
+}
+
+.formdesign input {
+    width: 30%;
+    padding: 5px 10px;
+    margin: 14px;
+    border-radius: 4px;
+}
+
+.formerror {
+    color: red;
+}
+
+.but {
+    width: 70px;
+    height: 35px;
+    
+}
+
+.error{
+    color: red;
+}
+
+.success{
+    color:green;
+}

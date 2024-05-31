@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    margin-top:300px;
+}
+
+section
+{
+    display: inline-block;
+}
+
+button
+{
+    width:200px;
+    height:200px;
+}
+
+#but
+{
+    background-color:red;
+}
+
+#but1
+{
+    background-color:green;
+}

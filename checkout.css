@@ -1,0 +1,26 @@
+.form1
+{
+ margin-left:80px;
+ 
+}
+
+input
+{
+ width:700px;
+}
+
+select
+{
+ width:700px;
+ height:30px;
+}
+
+.formerror {
+     color: red;
+ }
+
+.button{
+     width:700px;
+ }
+
+ 

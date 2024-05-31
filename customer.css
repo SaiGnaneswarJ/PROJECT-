@@ -1,0 +1,60 @@
+
+body {
+    padding: 10px 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+label{
+    float: left;
+    margin-left: 480px;
+}
+
+.formdesign {
+    font-size: 20px;
+
+}
+
+.formdesign input {
+    width: 30%;
+    padding: 5px 10px;
+    margin: 14px;
+    border-radius: 4px;
+}
+
+.formerror {
+    color: red;
+}
+
+.gender{
+
+    width:200px;
+    height : 30px;
+ 
+}
+
+.but {
+    width: 70px;
+    height: 35px;
+    
+}
+
+.error{
+    color: red;
+}
+
+.success{
+    color:green;
+}
+
+.product-row {
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    margin: 10px; 
+    margin-top:50px;
+}
+img{
+    width:150px;
+    height:150px;
+}
